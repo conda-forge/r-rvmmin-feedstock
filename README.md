@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rvmmin-feedst
 
 Home: https://CRAN.R-project.org/package=Rvmmin
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Summary: Variable metric nonlinear function minimization with bounds constraints.
 
